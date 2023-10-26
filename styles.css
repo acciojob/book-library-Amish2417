@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.book-library{
+	background-color: #ffffff;
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	
+}
+body{
+	background-color: #f8f8f8;
+}
+.btn{
+	background-color: green;
+	width: 100vw;
+}
+.book-library>h1{
+	text-align:center;
+	
+}
+.book{
+	width:500px;
+	height:500px;
+}
+.book>p{
+	left: 0px;
+	bottom: 0px;
+}
